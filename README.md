@@ -1,4 +1,4 @@
-# i3wm-config
+# i3-dotfiles
 This is the Fytva`s config for i3wm
 
 
